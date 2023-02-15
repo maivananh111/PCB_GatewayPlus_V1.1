@@ -1187,7 +1187,7 @@
     (pin "2" (uuid dfd679a9-3358-43ef-81d8-cf7f44fbe512))
   )
 
-  (symbol (lib_id "Device:D_TVS") (at 111.76 72.39 90) (unit 1)
+  (symbol (lib_id "Device:D_TVS") (at 111.76 72.39 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7369b2c1-64be-4ff7-a793-218d4c6b0eb4)
     (property "Reference" "D7" (id 0) (at 114.3 71.1199 90)

@@ -2236,6 +2236,9 @@
     (path "/4931c4f2-ec98-49ed-98f1-a79587b46d92/6e4291e9-2f24-460c-b4cd-842eb80244aa"
       (reference "C88") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
+    (path "/93629978-ce95-4bf7-bdaf-5ff23fa4963a/7cfd2df7-2768-4853-bcd9-4a29d723a7ca"
+      (reference "C89") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    )
     (path "/77c5f343-dce2-4f5b-a810-1e60994fab1d/5df5ff7b-8295-465a-973f-65c80940133d"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
@@ -2580,6 +2583,9 @@
     )
     (path "/2b39ed72-57f8-454f-9050-914b5b685aa1/304908aa-0737-4b73-a937-38d9a8c15bcc"
       (reference "U8") (unit 1) (value "MAX485E") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+    )
+    (path "/b9dec66c-a6f9-4a72-a8c1-f4992c32e35a/e696ad83-110a-4a60-9784-95316e678499"
+      (reference "U9") (unit 1) (value "CP2102N-Axx-xQFN28") (footprint "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm")
     )
     (path "/fff79de5-b133-4d25-8979-18516ae81c50/9e754425-8907-4fd2-9b19-eaa7e2075acd"
       (reference "X1") (unit 1) (value "50MHz") (footprint "Oscillator:Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm")
