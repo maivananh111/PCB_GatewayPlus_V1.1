@@ -2164,6 +2164,12 @@
     (path "/77c5f343-dce2-4f5b-a810-1e60994fab1d/0dcf6ef6-a4a3-4169-b73c-ed23387fa254"
       (reference "#PWR0251") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/77c5f343-dce2-4f5b-a810-1e60994fab1d/ff98fd6f-eec2-4a9b-9c14-3f375895233f"
+      (reference "#PWR0252") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/77c5f343-dce2-4f5b-a810-1e60994fab1d/26ca6eea-493e-4111-b6e2-147e90cdd240"
+      (reference "#PWR0253") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/77c5f343-dce2-4f5b-a810-1e60994fab1d/b08ea2c2-3a7e-4181-87b4-a547fbde2e28"
       (reference "C1") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -2514,6 +2520,9 @@
     )
     (path "/b9dec66c-a6f9-4a72-a8c1-f4992c32e35a/a1c1b4d7-ced6-4789-9448-7538ca7d1fa7"
       (reference "C117") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/77c5f343-dce2-4f5b-a810-1e60994fab1d/2549099c-590f-4e31-a0e9-79c3d3d338c6"
+      (reference "C118") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/77c5f343-dce2-4f5b-a810-1e60994fab1d/5df5ff7b-8295-465a-973f-65c80940133d"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
